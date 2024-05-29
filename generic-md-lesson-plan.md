@@ -19,8 +19,8 @@
 - Provide examples of...
 
 ### Resources:
-- [Resource](https://www.example.com)
-- [Resource](https://www.example.com)
+- [Resource 1](https://www.example.com)
+- [Resource 2](https://www.example.com)
 
 ### Guided Practice (15 minutes)
 
