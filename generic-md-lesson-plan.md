@@ -34,6 +34,6 @@
 ### Differentiation:
     - Advanced students can explore [topic].
     - Struggling students can focus on [topic].
-### Discussion Questions:
+### Discussion Questions/Exit Ticket:
     - Question 1
     - Question 2
