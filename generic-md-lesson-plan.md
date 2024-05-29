@@ -31,12 +31,14 @@
 
 Set up stations where students explore [topic]:
 
-- Station 1: Description of activity
+- **Station 1**: Description of activity
 	- 	*Objective 1*
-- Station 2: Description of activity
+- **Station 2**: Description of activity
 	- 	*Objective 2*
-- Station 3: Description of activity
+- **Station 3**: Description of activity
 	- 	*Objective 3**
+- **Station 4**: Description of activity
+	- 	*Objective 4**
 
 ### Activities (5 minutes)
 
