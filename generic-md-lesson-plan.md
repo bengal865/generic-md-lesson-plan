@@ -7,7 +7,7 @@
 
 ## Lesson Outline:
 
-### Introduction (Hook) (5 minutes)
+### Lesson Hook (5 minutes)
 
 - Show students a list of...
 - Introduce the concept of...
