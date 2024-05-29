@@ -2,8 +2,8 @@
 
 ## Key Terms & Concepts:
 
-- Term
-- Term
+- Term A
+- Term B
 
 ## Lesson Outline:
 
