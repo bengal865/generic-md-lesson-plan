@@ -23,7 +23,7 @@
 ### Station Rotation (20 minutes)
     - Set up stations where students explore [topic]:
         - Station 1: Description of activity
-            - *objective*
+            - objective
         - Station 2: Description of activity + objective
         - Station 3: Description of activity + objective
 ### Activities (5 minutes)
